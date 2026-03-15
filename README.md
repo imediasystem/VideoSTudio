@@ -4,7 +4,7 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediastudio.pl/)
 
-Modern, responsive Video Studio website built with HTML5, CSS3, JavaScript, jQuery & Bootstrap. Fast, sleek, and designed to turn viewers into clients. Check the demo and let’s showcase your talent together.
+Modern, responsive Video Studio website built with HTML5, CSS3, JavaScript & Bootstrap. Fast, sleek, and designed to turn viewers into clients. Check the demo and let’s showcase your talent together.
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
