@@ -1,3 +1,5 @@
+<img width="1902" height="927" alt="Zrzut ekranu 2025-10-20 163412" src="https://github.com/user-attachments/assets/f53274c3-e5d5-4789-9aae-d47df12ae515" />
+
 ## 🔥 Project Name - VIDEO STUDIO
 See the live version of [VIDEO STUDIO](https://imediasystem.github.io/VideoSTudio/) ↗️
 
