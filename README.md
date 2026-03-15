@@ -3,6 +3,8 @@
 ## 🔥 Project Name - VIDEO STUDIO
 See the live version of [VIDEO STUDIO](https://imediasystem.github.io/VideoSTudio/) ↗️
 
+Modern, responsive Video Studio website built with HTML5, CSS3, JavaScript, jQuery & Bootstrap. Fast, sleek, and designed to turn viewers into clients. Check the demo and let’s showcase your talent together.
+
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
