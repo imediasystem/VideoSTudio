@@ -6,11 +6,16 @@
 
 Modern, responsive Video Studio website built with HTML5, CSS3, JavaScript & Bootstrap. Fast, sleek, and designed to turn viewers into clients. Check the demo and let’s showcase your talent together.
 
-## 📚 Technologies / Frameworks / Platforms / Libraries
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+
+## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 &nbsp;
 
 ## 💿 Installation
