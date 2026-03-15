@@ -26,7 +26,7 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
 
-## 📩 Contact & Collaboration
+## 📩 Contact / Collaboration
 Looking for a professional website for your creative business? Let’s talk about your project!
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=61577832340228">
