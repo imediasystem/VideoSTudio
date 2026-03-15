@@ -1,7 +1,6 @@
 <img width="1894" height="910" alt="Image" src="https://github.com/user-attachments/assets/9e2205b9-3710-4640-a479-773a7a142c9c" />
 
 ## 🔥 Project Name - VIDEO STUDIO
-See the live version of [VIDEO STUDIO](https://imediasystem.github.io/VideoSTudio/) ↗️
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/VideoSTudio/)
 
