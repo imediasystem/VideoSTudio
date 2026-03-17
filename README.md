@@ -10,6 +10,7 @@ Modern, responsive Video Studio website built with HTML5, CSS3, JavaScript & Boo
 * **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
 * **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
 * **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
 
 ## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +33,7 @@ Looking for a professional website for your creative business? Let’s talk abou
 [![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577832340228)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true)
 
-> **"Ready to bring your vision to life? Drop me a message and let's create something amazing together!"**
+> **Ready to bring your vision to life? Drop me a message and let's create something amazing together!**
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
